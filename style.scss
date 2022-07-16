@@ -1,0 +1,72 @@
+/* Website Fonts */
+
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap");
+//font-family: 'Noto Sans', sans-serif;
+
+//font var
+$mainfont: "Noto Sans", sans-serif;
+
+/*
+    /////////////////////
+        vars
+    /////////////////////
+*/
+
+//Website Colors Var
+
+$black-color: #212121;
+$white-color: #fdfdfd;
+$main-color: #0a516d;
+$pry-color: #ff502f;
+
+/*
+Website Reset And Fix
+*/
+* {
+    padding: 0;
+    margin: 0;
+    line-height: 1.5em;
+}
+html,
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 1rem;
+    font-family: $mainfont;
+    background: $white-color;
+    color: $black-color;
+    scroll-behavior: smooth;
+}
+ul,
+li {
+    list-style: none;
+}
+//Adding colors
+h1,
+h2,
+h3,
+h4,
+p,
+a {
+    color: $black-color;
+}
+a {
+    text-decoration: none;
+}
+img {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    padding: 2rem 0px;
+}
+
+.ion-icon {
+    fill: $white-color;
+    width: 30px;
+    height: 30px;
+    background: black;
+    padding: 0.4rem;
+    border-radius: 0.5rem;
+}

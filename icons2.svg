@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <symbol id="facebook" viewBox="0 0 512 512">
+        <title> Facebook Icon </title>
+            <svg viewBox="0 0 174 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M101 25.5L135 77V18H128V52L105.5 18H101V25.5Z" fill="white" stroke="white" />
+            <path d="M18 22L102.5 21.5" stroke="white" stroke-width="8" />
+            <path d="M6 5.5H167.5" stroke="white" stroke-width="11" />
+            <path d="M6 123H167.5" stroke="white" stroke-width="10" />
+            <path d="M168 0L168 128" stroke="white" stroke-width="11" />
+            <path d="M6 0L6.00001 128" stroke="white" stroke-width="11" />
+            <path d="M114 9V17L108.5 8.5L114 9Z" fill="white" stroke="white" />
+            <path d="M119 119L119 111L124.5 119.5L119 119Z" fill="white" stroke="white" />
+            <path d="M21 18L21 110" stroke="white" stroke-width="7" />
+            <path
+                d="M157 18H128V25.5H150V102H136.5L102 50.5V102H88V25.5H79V38.5H47V46H80.5V52.5H47V46V38.5H40V59H74.5V72H40V102H23V109.5H47.5V80H80.5V109.5H110V76L132.5 109.5H157V30.5V18Z"
+                fill="white" />
+            <path
+                d="M47 38.5H40V59H74.5V72H40V102H23V109.5H47.5V80H80.5V109.5H110V76L132.5 109.5H157V30.5V18H128V25.5H150V102H136.5L102 50.5V102H88V25.5H79V38.5H47ZM47 38.5V46M47 46V52.5H80.5V46H47Z"
+                stroke="white" />
+            <path d="M61 119.5V89H70.5V119.5H61Z" fill="white" stroke="white" />
+        </svg>
+    </symbol>
+
+</svg>
